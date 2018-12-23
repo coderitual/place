@@ -11,7 +11,7 @@ Principles which drives this app are as follows:
 ##### 🍆 *No classes*
 Only functional components.
 ##### ❣️ *Hooks*
-Uses hoos all the way down (available as of react 16.7.0-alpha).
+Uses hooks all the way. (available as of react 16.7.0-alpha).
 ##### 🖖 *Code splitting*
 Uses `React.lazy` and webpack behind the scene.
 ##### ⏱️ *Suspense*
