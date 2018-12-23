@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/coderitual/react-direct/blob/master/media/logo.png"></p>
+<p align="center"><img src="https://github.com/coderitual/react-direct/blob/master/media/logo-direct.png"></p>
 
 # React Direct
 Modern react application with useful patterns inside.
