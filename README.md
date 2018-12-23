@@ -1,4 +1,4 @@
-# react-modern-app
+# react-direct
 Modern react application with useful patterns inside.
 
 ## Introduction
@@ -8,6 +8,9 @@ This is an attempt to create fully functional react app using modern approaches.
 ## Features
 Principles which drives this app are as follows:
 
+
+##### 🎯 *Direct*
+Promote explicit and co-located code which is easy to delete and move from one place to another. The code is direct and specific as it can be. No magic!
 ##### 🍆 *No classes*
 Only functional components.
 ##### ❣️ *Hooks*
