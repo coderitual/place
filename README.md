@@ -1,3 +1,5 @@
+<p align="center"><img width=12.5% src="https://github.com/coderitual/react-direct/blob/master/media/logo.png"></p>
+
 # React Direct
 Modern react application with useful patterns inside.
 
