@@ -33,7 +33,7 @@ Application uses modern libraries for the core things:
 - `Styled Components` -> CSS in JS
 - `React Spring` -> Animations
 
-Each library was picked carefully based on application needs to satisfy real world requirements but nothing more. Feel free to replace them with an alternatives if you need it.
+Each library was picked carefully based on application needs to satisfy real world requirements but nothing more.
 
 ## Legal
 MIT License Copyright © 2018-present, Mike Skowronek 
