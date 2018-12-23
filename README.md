@@ -11,7 +11,7 @@ Principles which drives this app are as follows:
 ##### 🍆 *No classes*
 Only functional components.
 ##### ❣️ *Hooks*
-Uses hooks all the way. (available as of react 16.7.0-alpha).
+Uses hooks all the way (available as of react 16.7.0-alpha).
 ##### 🖖 *Code splitting*
 Uses `React.lazy` and webpack behind the scene.
 ##### ⏱️ *Suspense*
@@ -29,4 +29,4 @@ It also uses modern libraries for core things:
 - `React Spring` -> Animations
 
 ## Legal
-MIT License Copyright (c) 2018-present, Mike Skowronek
+MIT License Copyright © 2018-present, Mike Skowronek 
