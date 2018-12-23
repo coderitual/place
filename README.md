@@ -28,10 +28,12 @@ As little configuration as possible. Uses defaults wherever it can.
 
 ## Modern libraries
 
-It also uses modern libraries for core things:
+Application uses modern libraries for the core things:
 - `Reach Router`
 - `Styled Components` -> CSS in JS
 - `React Spring` -> Animations
+
+Each library is picked carefully based on application needs to satisfy real world requirements but nothing more. Feel free to replace them with an alternatives if you feel you need it.
 
 ## Legal
 MIT License Copyright © 2018-present, Mike Skowronek 
