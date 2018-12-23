@@ -6,7 +6,7 @@ Modern react application with useful patterns inside.
 This is an attempt to create fully functional react app using modern approaches. The idea behind is to leverage old and battle tested concepts on the new ground.
 
 ## Features
-Principles which drives this app are as follows:
+Principles which drive this app are as follows:
 
 
 ##### 🎯 *Direct*
