@@ -10,7 +10,7 @@ Principles which drive this app are as follows:
 
 
 ##### 🎯 *Direct*
-Embraces explicit and co-located code which is easy to delete and move from one place to another. The code is direct and specific as it can be. No magic!
+Embraces explicit and co-located code which is easy to delete and move from one place to another. The code is direct and specific as it can be. which is optimizing for change. No magic!
 ##### 🍆 *No classes*
 Only functional components.
 ##### ❣️ *Hooks*
