@@ -19,7 +19,7 @@ React suspense for all things except data (code splitting, media loading).
 ##### 👗 *CSS-in-JS*
 It's based on styled components for the look and feel.
 ##### 🤷 *Promote defaults*
-As little configuration as possible. Uses defaults wherever it can
+As little configuration as possible. Uses defaults wherever it can.
 
 ## Modern libraries
 
