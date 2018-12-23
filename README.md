@@ -1,4 +1,4 @@
-# react-modern
+# react-modern-app
 Modern react application with useful patterns inside.
 
 ## Introduction
