@@ -18,7 +18,7 @@ Only functional components.
 ##### ❣️ *Hooks*
 Uses hooks all the way (available as of react 16.7.0-alpha).
 ##### 🖖 *Code splitting*
-Uses `React.lazy` and webpack behind the scene.
+Uses `React.lazy` along with `import()` and let the webpack do the job.
 ##### ⏱️ *Suspense*
 React suspense for all things except data (code splitting, media loading).
 ##### 👗 *CSS-in-JS*
