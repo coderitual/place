@@ -1,4 +1,4 @@
-# react-direct
+# React Direct
 Modern react application with useful patterns inside.
 
 ## Introduction
