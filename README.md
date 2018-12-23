@@ -1,7 +1,7 @@
 <p align="center"><img src="https://github.com/coderitual/react-direct/blob/master/media/logo-direct.png"></p>
 
 # React Direct
-Modern react application with useful patterns inside. The main purpose it to teach how to create real world application by solving real world problems. Other than that I want to learn myself by putting and organizing react knowledge and into one app.
+Modern react application with useful patterns inside. The main purpose it to teach how to create real world application by solving real world problems. Other than that I want to learn myself by putting and organizing react knowledge into one app.
 
 ## Introduction
 
