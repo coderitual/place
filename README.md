@@ -26,7 +26,7 @@ It's based on styled components for the look and feel.
 ##### 🤷 *Promote defaults*
 As little configuration as possible. Uses defaults wherever it can.
 
-## Modern libraries
+## Modern Libraries
 
 Application uses modern libraries for the core things:
 - `Reach Router` Because it's straighforward, composable and does directly what it should. Nothing more.
