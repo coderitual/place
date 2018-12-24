@@ -29,9 +29,9 @@ As little configuration as possible. Uses defaults wherever it can.
 ## Modern libraries
 
 Application uses modern libraries for the core things:
-- `Reach Router` -> Because it's simpler than anything else, and still pretty much everything we need.
-- `Styled Components` -> Simply CSS in JS with great documentation. Why not `emotion`? I don't know. If there is a reason I should know about, let me know!
-- `React Pose` -> Animations in react are hard enough. Everything that encourages their use is great.
+- `Reach Router` Because it's straighforward, composable and does directly what it should. Nothing more.
+- `Styled Components` Simply CSS in JS with great documentation. Why not `emotion`? I don't know. If there is a reason I should know about, let me know!
+- `React Pose` Animations in react are hard enough. Everything that encourages their use is great. More than that it uses FLIP technique and direct DOM manipulation -> 60 fps
 
 ## Legal
 MIT License Copyright © 2018-present, Mike Skowronek 
