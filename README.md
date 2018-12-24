@@ -1,7 +1,7 @@
 <p align="center"><img src="https://github.com/coderitual/react-direct/blob/master/media/logo.png"></p>
 
 # React Direct
-Modern react application with useful patterns inside. The main purpose of it is to teach how to create real world application by solving real world problems. Other than that I want to learn myself by putting and organizing react knowledge into one application. It covers basic areas such as: __*routing, data fetching, animations & transitions, shared state, themes*__ and a few more UI concepts: __*notifications, modals, navigation*__. All these topics are grouped into applicaion folders in the way which feels right to me. They are not carved in stone though, so they can change their place in the future.
+Modern react application with useful patterns inside. The main purpose of it is to teach how to create real world application by solving real world problems. Other than that I want to learn myself by putting and organizing react knowledge into one place. It covers basic areas such as: __*routing, data fetching, animations & transitions, shared state, themes*__ and a few more UI concepts: __*notifications, modals, navigation*__. All these topics are grouped into applicaion folders in the way which feels right to me. They are not carved in stone though, so they can change their place in the future.
 
 ## Introduction
 
