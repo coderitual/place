@@ -5,7 +5,7 @@ Modern react application with useful patterns inside. The main purpose of it is 
 
 ## Introduction
 
-This is an attempt to create fully functional react app using modern approaches. The idea behind is to leverage old and battle tested concepts on the new ground.
+This is an attempt to create fully functional react app using modern approaches. The idea behind is to leverage old and battle tested concepts on the new ground and provide useful UI and code patterns for your application.
 
 ## Features
 Principles which drive this app are as follows:
