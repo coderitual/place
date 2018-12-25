@@ -1,18 +1,16 @@
 <p align="center"><img src="https://github.com/coderitual/react-direct/blob/master/media/logo.png"></p>
+<p align="center"><strong><em>Ready-To-Use React UI Concepts</em></strong></p>
 
 # React Direct
-Modern react application with useful patterns inside. The main purpose of it is to teach how to create real world application by solving real world problems. Other than that I want to learn myself by putting and organizing react knowledge into one place. It covers basic areas such as: __*routing, data fetching, animations & transitions, shared state*__ and a few more UI concepts: __*notifications, modals, navigation, theming*__. All these topics are grouped into applicaion folders in the way which feels right to me. They are not carved in stone though, so they can change their place in the future.
-
 ## Introduction
-
-This is an attempt to create fully functional react app using modern approaches. The idea behind is to leverage old and battle tested concepts on the new ground and provide useful UI and code patterns for your application.
+Modern react application with useful patterns inside. The main purpose of it is to teach how to create real world application by solving real world problems. Other than that I want to learn myself by putting and organizing react knowledge into one place. It covers basic areas such as: routing, data fetching, animations & transitions, shared state and a few more UI concepts: notifications, modals, navigation, theming. All these topics are grouped into applicaion folders in the way which feels right to me. They are not carved in stone though, so they can change their place in the future.
 
 ## Features
 Principles which drive this app are as follows:
 
 
 ##### 🎯 *Direct*
-Embraces explicit and co-located code which is easy to delete and move from one place to another. This is an optimization for change as the change is the thing which will eventually happen. The code is direct and specific as it can be. No magic.
+Embraces explicit and co-located code which is easy to delete and move from one place to another. This is an optimization for change as the change is the thing which will eventually happen. The code is direct and specific which makes it easy to copy and adapt to your needs.
 ##### 🍆 *No classes*
 Only functional components.
 ##### ❣️ *Hooks*
