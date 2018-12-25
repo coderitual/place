@@ -1,5 +1,5 @@
 <p align="center"><img src="https://github.com/coderitual/react-direct/blob/master/media/logo.png"></p>
-<p align="center"><em><strong>Ready-to-Use React UI Concepts</strong></em></p>
+<p align="center"><em><strong>Ready-to-use Patterns and UI Solutions for Modern React</strong></em></p>
 
 # React Direct
 Modern react application with useful patterns inside. The main purpose of it is to teach how to create real world application by solving real world problems. It covers basic areas such as: __*routing, data fetching, animations & transitions, shared state*__ and a few more UI concepts: __*notifications, modals, navigation, theming.*__ All these topics are grouped into applicaion folders in the way which feels right to me. They are not carved in stone though, so they can change their place in the future.
