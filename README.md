@@ -13,7 +13,7 @@ Principles which drive this project are as follows:
 ##### 🎯 *Direct*
 Embraces explicit and co-located code which is easy to delete and move from one place to another. This is an optimization for change as the change is the thing which will eventually happen. The code is direct and specific which makes it easy to copy and adapt to your needs.
 ##### 🍏 *Simple*
-Following [The Rise of 'Worse is Better'](https://www.jwz.org/doc/worse-is-better.html)
+Following [The Rise of "Worse is Better"](https://www.jwz.org/doc/worse-is-better.html)
 > The design must be simple, both in implementation and interface. It is more important for the interface to be simple than the implementation
 
 This also means avoiding unnecessary abstractions. 
