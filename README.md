@@ -2,17 +2,20 @@
 <p align="center"><em><strong>Ready-to-Use React UI Concepts</strong></em></p>
 
 # React Direct
-Modern react application with useful patterns inside. The main purpose of it is to teach how to create real world application by solving real world problems. Other than that I want to learn myself by putting and organizing react knowledge into one place. It covers basic areas such as: __*routing, data fetching, animations & transitions, shared state*__ and a few more UI concepts: __*notifications, modals, navigation, theming.*__ All these topics are grouped into applicaion folders in the way which feels right to me. They are not carved in stone though, so they can change their place in the future.
+Modern react application with useful patterns inside. The main purpose of it is to teach how to create real world application by solving real world problems. It covers basic areas such as: __*routing, data fetching, animations & transitions, shared state*__ and a few more UI concepts: __*notifications, modals, navigation, theming.*__ All these topics are grouped into applicaion folders in the way which feels right to me. They are not carved in stone though, so they can change their place in the future.
 
 ## Introduction
 This is an attempt to create fully functional react app using modern approaches. The idea behind is to leverage old and battle tested concepts on the new ground and provide useful UI and code patterns for your application.
 
 ## Features
-Principles which drive this app are as follows:
-
+Principles which drive this project are as follows:
 
 ##### 🎯 *Direct*
 Embraces explicit and co-located code which is easy to delete and move from one place to another. This is an optimization for change as the change is the thing which will eventually happen. The code is direct and specific which makes it easy to copy and adapt to your needs.
+##### 🍏 *Simple*
+Following [The Rise of 'Worse is Better'](https://www.jwz.org/doc/worse-is-better.html)
+> The design must be simple, both in implementation and interface. It is more important for the interface to be simple than the implementation
+This also means avoiding unnecessary abstractions. 
 ##### 🍆 *No classes*
 Only functional components.
 ##### ❣️ *Hooks*
