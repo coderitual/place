@@ -1,5 +1,5 @@
 <p align="center"><img src="https://github.com/coderitual/react-direct/blob/master/media/logo.png"></p>
-<p align="center"><em><strong>Ready-to-Use UI Solutions for React</strong></em></p>
+<p align="center"><em><strong>Ready-to-Use UI Solutions for React Application</strong></em></p>
 
 ## Introduction
 This is fully functional react application using modern approaches. The idea behind is to leverage cutting edge ideas to provide useful UI and code patterns for your project. It covers basic areas such as: __*routing, data fetching, animations & transitions, shared state*__ but also more specific UI concepts. All these topics are grouped into folders in the way which helps you find an interesting piece of code.
