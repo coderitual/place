@@ -2,7 +2,7 @@
 <p align="center"><em><strong>Ready-to-Use React UI Concepts</strong></em></p>
 
 # React Direct
-Modern react application with useful patterns inside. The main purpose of it is to teach how to create real world application by solving real world problems. It covers basic areas such as: *routing, data fetching, animations & transitions, shared state* and a few more UI concepts: *notifications, modals, navigation, theming.* All these topics are grouped into applicaion folders in the way which feels right to me. They are not carved in stone though, so they can change their place in the future.
+Modern react application with useful patterns inside. The main purpose of it is to teach how to create real world application by solving real world problems. It covers basic areas such as: __*routing, data fetching, animations & transitions, shared state*__ and a few more UI concepts: __*notifications, modals, navigation, theming.*__ All these topics are grouped into applicaion folders in the way which feels right to me. They are not carved in stone though, so they can change their place in the future.
 
 ## Introduction
 This is an attempt to create fully functional react app using modern approaches. The idea behind is to leverage old and battle tested concepts on the new ground and provide useful UI and code patterns for your application.
