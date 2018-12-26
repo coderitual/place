@@ -2,7 +2,7 @@
 <p align="center"><em><strong>Ready-to-Use UI Solutions for React Application</strong></em></p>
 
 ## Introduction
-Unofficial guide to UI solutions packed into one fully functional react application. The idea behind is to leverage cutting edge ideas to provide useful UI and code patterns for your project. It covers basic areas such as: __*routing, data fetching, animations & transitions, shared state*__ but also more specific UI concepts. All these topics are grouped into folders in the way which helps you find an interesting piece of code.
+Set of UI solutions packed into one fully functional react application. The idea behind is to leverage cutting edge ideas to provide useful UI and code patterns for your project. It covers basic areas such as: __*routing, data fetching, animations & transitions, shared state*__ but also more specific UI concepts. All these topics are grouped into folders in the way which helps you find an interesting piece of code.
 
 ## Features
 Principles which drive this project are as follows:
