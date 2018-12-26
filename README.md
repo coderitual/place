@@ -4,7 +4,7 @@
 
 # React Direct
 ## Introduction
-This is an attempt to create fully functional react application using modern approaches. The idea behind is to leverage old and battle tested concepts on the new ground and provide useful UI and code patterns for your project. It covers basic areas such as: __*routing, data fetching, animations & transitions, shared state*__ but also more specific UI concepts. All these are grouped into folders in the way which helps you find an interesting piece of code.
+This is an attempt to create fully functional react application using modern approaches. The idea behind is to leverage old and battle tested concepts on the new ground and provide useful UI and code patterns for your project. It covers basic areas such as: __*routing, data fetching, animations & transitions, shared state*__ but also more specific UI concepts. All these topics are grouped into folders in the way which helps you find an interesting piece of code.
 
 ## Features
 Principles which drive this project are as follows:
